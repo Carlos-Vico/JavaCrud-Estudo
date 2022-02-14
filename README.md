@@ -4,5 +4,5 @@
 
 :checkered_flag: Validador dos Campos do Modal
 
-- O estudo consiste em um `CRUD`
+- O estudo consiste em um `CRUD` JavaScript usando LocalStorage para persistência dos dados pegos via formulario _HTML_.
 
