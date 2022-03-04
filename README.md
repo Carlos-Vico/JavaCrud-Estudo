@@ -1,4 +1,4 @@
-# JavaCrud-Estudo
+# -Estudo Crud JavaScript
 :+1: -  API Web Storage...
 - Ela Fornece mecanismos para que os navegadores possam armazenar dados através de `chave:valor` de uma forma mais eficiente que os cookies.
 
